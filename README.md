@@ -23,15 +23,31 @@ The ARMS system integrates various sub-systems and modules to provide a comprehe
 3. **Commercial Planning Sub-System (CPSS)**
 4. **Flight Planning & Dispatch Sub-System (FPDS)**
 
-## Project Details (Images attached)
+## Data Visualizations
 
-### Airline Structure
-### IT Services in an Airline
-### Business Process in Crew Management System
-### Flight Planning Scenario in a Week
-### CMS IT Layers
-### CMS All Modules 
+### 1. Airline Structure Diagram
+![Airline Structure Diagram](https://github.com/amitgrewal4/1_Projects_Aviation_Arms/assets/140138833/4dbfd7e9-78c5-4f8f-a860-7eaa3e368d88)
+Displays the organizational structure of an airline.
 
+### 2. IT Services in an Airline
+![IT Services in an Airline](https://github.com/amitgrewal4/1_Projects_Aviation_Arms/assets/140138833/7da9f18b-7f65-4156-b927-45a273539270)
+Showcases various IT services provided in an airline across different operational areas.
+
+### 3. Business Process in Crew Management System (CMS)
+![Business Process in Crew Management System](https://github.com/amitgrewal4/1_Projects_Aviation_Arms/assets/140138833/4279638c-df22-4f0b-a7d9-9db388f59721)
+Illustrates the business processes involved in the Crew Management System (CMS).
+
+### 4. Flight Planning Scenario in a Week
+![Flight Planning Scenario in a Week](https://github.com/amitgrewal4/1_Projects_Aviation_Arms/assets/140138833/f917d8c3-0ecb-411d-a3da-c94783232d3d)
+Visual representation of a flight planning scenario over a week.
+
+### 5. CMS IT Layers
+![CMS IT Layers](https://github.com/amitgrewal4/1_Projects_Aviation_Arms/assets/140138833/c230f0aa-650a-40e0-acec-9306fac13c5f)
+Layered view of the Crew Management Sub-System (CMS) within ARMS.
+
+### 6. CMS All Modules
+![CMS All Modules](https://github.com/amitgrewal4/1_Projects_Aviation_Arms/assets/140138833/06635d09-6658-44ed-bc96-8f3d0ec30d66)
+Comprehensive view of all modules within the Crew Management Sub-System (CMS).
 ## Modules and Features
 
 ### Crew Management Sub-System (CMSS)
